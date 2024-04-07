@@ -1,12 +1,12 @@
-# Hi there 👋
+## Hi there 👋
 
 Pooja Patel here, welcome to my GitHub corner, where I constantly explore and learn new tech!
 
-# 📚 Edu
+### 📚 Edu
 - Grad @ San Jose State University
 - Undergrad @ NMIMS
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 - **Languages:** Python, Java, SQL
 - **Frameworks:** Flask, PySpark, Apache Kafka, Apache Airflow
@@ -15,15 +15,15 @@ Pooja Patel here, welcome to my GitHub corner, where I constantly explore and le
 - **Dashboard Tools:**  Tableau, QlikSense, QlikView, PowerBI, Data Studio, Google Analytics
 - **Other:** Jira, GitHub, Postman, Docker, Jenkins, Confluent Kafka
 
-## 🚀 Work
+### 🚀 Work
 
 - Previously
     - Senior Data and Analytics Engineer at [Infosys](https://www.infosys.com/)
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 - Exploring advanced topics in Apache Kafka, Airflow.
 
-## 📬 Let's Connect!
+### 📬 Let's Connect!
 
 - LinkedIn: [Pooja Patel](https://www.linkedin.com/in/poojapatel3010)
 
