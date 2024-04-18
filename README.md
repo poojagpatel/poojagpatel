@@ -18,7 +18,7 @@ Pooja Patel here, welcome to my GitHub corner, where I constantly explore and le
 ### 🚀 Work
 
 - Previously
-    - Senior Data and Analytics Engineer at [Infosys](https://www.infosys.com/)
+    - Senior Software Engineer at [Infosys](https://www.infosys.com/)
 
 ### 🌱 Currently Learning
 - Exploring advanced topics in Apache Kafka, Airflow.
